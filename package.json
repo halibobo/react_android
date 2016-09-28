@@ -1,0 +1,15 @@
+{
+  "name": "react_android",
+  "version": "1.0.0",
+  "description": "ss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-native": "^0.33.1"
+  }
+}
